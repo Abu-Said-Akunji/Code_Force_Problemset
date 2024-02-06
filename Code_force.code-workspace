@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "Code_force"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Coding",
+		"java.debug.settings.onBuildFailureProceed": true,
+		"files.associations": {
+			"iostream": "cpp",
+			"ratio": "c",
+			"random": "c",
+			"functional": "c"
+		}
+	}
+}
